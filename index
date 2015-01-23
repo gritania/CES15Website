@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="master.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<head>
+<style>
+</style>
+</head>
+
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">CES15</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="airdog.html">AirDog</a></li>
+        <li><a href="compute.html">Intel Compute Stick</a></li>
+		<li><a href="8ktv">8K TV</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<!-- Nav Bar end -->
+
+<body>
+	<div class="header">
+		<h1 id="logoAnimate">CES 2015 <small>Your home for the CES highlights</small></h1>
+	</div>
+	<div>
+		<!-- Main Paragraph -->
+		<p class="lead" style="margin-left: 20px;"> CES was in Las Vegas recently so we're here to give you our highlights. </p>
+		<p class="standard-text"> This years CES was packed with awesome gadgets such as 8K TVs, drones and even self-driving cars.  Oculus Rift turned up with their latest version of their popular virtual reality headset. </p>
+
+			<h4 class="standard-text">Superchips</h4>
+		<p class="standard-text"> These include the Nvidia Tegra X1, with 256 processor cores and eight CPU cores. What does that even mean? “More power than a supercomputer the size of a suburban family home from 15 years ago,” according to the maker. </p>
+			<h4 class="standard-text">8K TV</h4>
+			<img src="8ktv.jpeg" style = "width: 50%; height: auto; float: right" alt="..." class="img-rounded">
+		<p class="standard-text">4K may be new in Currys, but it’s been overtaken already. Sharp just unlocked a new level. It’s not strictly 8K because it uses pixel-splitting to produce “virtual 8K”. It also requires shows and films to be made in 8K. But that will come.</p>
+				<h4 class="standard-text">Internet of Things</h4>
+		<p class="standard-text">This much heralded breakthrough could finally be happening this year. “We’re entering the third age of technology,” said Samsung UK vice president Robert King. “It’s no longer about standalone devices but interconnecting them so they can do more together.”</p>
+		<p class="standard-text">Samsung says every one of its products, including washing machines and driers, would be internetconnected within five years. New smarthome accessories include fridges that know what’s on their shelves to locks that will let family members into the house.</p>
+				<h4 class="standard-text">Driverless Cars</h4>
+		<p class="standard-text">Audi had a car that can arrive to pick up its driver at the touch of a button on a smartwatch, while Japanese carmaker Nissan announced it was teaming up with Nasa to work on the technology too. BMW executive Dr Werner Huber said fully autonomous cars were still some years away, but a helpful robot co-driver could be commonplace far sooner.</p>
+		<p class="standard-text">“We are closer to the autonomous car, but not in the sense that you can read a newspaper behind the wheel,” said Huber. “It’s better to have a combination of the driver and a robotic system.</p>
+				<h4 class="standard-text">Drones</h4>
+		<p class="standard-text">The halls of the CES were buzzing with these. They included the Nixie, that turns from a bracelet to a flying camera drone when flung into the air.</p>
+		<p class="standard-text">There were flying robots to carry loads, to fly into tight spaces, to provide lighting and just for toys. There was also “follow me” technology in some drones, so they can track and film anyone wearing a device on their wrist. All be available before the year is out.</p>
+		<p class="standard-text">Chris Anderson, chief executive of drone maker 3D Robotics, said the attraction of drones was simple: “You want a flying phone, but until we invent anti-gravity, drones are basically it.”</p>
+		
+		
+		<!-- <div class="alert alert-warning alert-dismissible" role="alert">
+			<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+		</div> -->
+		
+</body>
+</html>
